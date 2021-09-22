@@ -2,3 +2,4 @@
 
 - Hacer repositorio remoto
 - Clonar repositorio
+- Voy a sumar otra actividad
